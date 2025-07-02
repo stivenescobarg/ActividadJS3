@@ -1,3 +1,3 @@
-const mensaje = () => "JavaScript es aburridor";
+const mensaje = () => "JavaScript es lo mejor";
 
 console.log(mensaje());
